@@ -51,4 +51,3 @@ Do you want to perform another calculation? (y/n): y
 This project is open-source and free to use under the MIT License.
 ```
 
-You can add this README to your GitHub repository and update it as necessary. The program is simple, but this description provides all the necessary details for anyone to understand its functionality and how to use it.
